@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/turingschool-examples/pizza-express.git"
+    "url": "git+https://github.com/GKhalsa/pizza-express"
   },
   "keywords": [
     "express",
@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/turingschool-examples/pizza-express/issues"
   },
-  "homepage": "https://github.com/turingschool-examples/pizza-express#readme"
+  "homepage": "https://github.com/turingschool-examples/pizza-express#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  }
 }
